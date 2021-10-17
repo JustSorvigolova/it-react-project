@@ -1,0 +1,8 @@
+.content{
+    grid-area:content ;
+    background: darkmagenta;
+ }
+.content_img {
+    width: 100%;
+    height: 400px;
+ }
